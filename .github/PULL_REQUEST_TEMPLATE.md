@@ -1,8 +1,8 @@
-# Issue: AB#1234
+# Ticket: AB#1234
 Describe, in broad terms, what this pull request is achieving
 
 ## Screenshots
-<!-- (add any necessary screenshots here) -->
+<!-- (add any necessary screenshots here, remove if not needed) -->
 
 # Related PRs
 <!-- (remove this section if not needed) -->

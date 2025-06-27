@@ -1,6 +1,9 @@
 # Ticket: AB#1234
 Describe, in broad terms, what this pull request is achieving
 
+[ ] I have reviewed my own code
+[ ] Any breaking changes or deprecations have been communicated
+
 ## Screenshots
 <!-- (add any necessary screenshots here, remove if not needed) -->
 
